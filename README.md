@@ -60,12 +60,8 @@ This project demonstrates modern frontend development concepts including API int
 
 ### Medal Tracking Dashboard
 
-> Add screenshots here
-
-Example:
-
 ```md
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/medals-radix.png)
 ```
 
 ---
