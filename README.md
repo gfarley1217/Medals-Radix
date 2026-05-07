@@ -58,11 +58,10 @@ This project demonstrates modern frontend development concepts including API int
 
 ## Application Screenshots
 
-### Medal Tracking Dashboard
+### Medal Tracking Screenshot
 
-```md
 ![Dashboard](src/screenshots/medals-radix.png)
-```
+
 
 ---
 
